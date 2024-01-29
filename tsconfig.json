@@ -27,5 +27,6 @@
       "@shared/*": ["shared/*"],
       "@my-socket-io/*": ["socket/*"]
     }
-  }
+  },
+  "exclude": ["node_modules", "dist"]
 }
